@@ -108,12 +108,13 @@ main {
 .facts-card-container {
   display: flex;
   justify-content: space-around;
+  margin-top: 80px;
 }
 .facts-card-container .card {
   border-radius: 8px;
   border: 1px solid #ff900e;
   text-align: center;
-  padding: 30px;
+  padding: 20px 30px;
 }
 .facts-card-container .card-stats {
   color: #424242;
